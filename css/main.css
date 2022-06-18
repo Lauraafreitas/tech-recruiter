@@ -491,7 +491,7 @@ main {
 }
 
 .conhecimentos .conhecimentos-list .conhecimento-item:hover i {
-  color: #fff;
+  color: rgb(13, 189, 233);
 }
 
 .conhecimentos .conhecimentos-list .conhecimento-item:hover span,
@@ -631,7 +631,7 @@ main {
 }
 
 .projetos .projects-list .projects-item button:hover i {
-  color: #000;
+  color: rgb(5, 21, 255);
 }
 
 @media (min-width: 1250px) {
