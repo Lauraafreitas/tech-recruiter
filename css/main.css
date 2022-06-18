@@ -38,7 +38,7 @@ span {
 }
 
 .section {
-  color: #fff;
+  color: rgb(53, 1, 1);
   margin: 15px 0;
 }
 
@@ -481,12 +481,12 @@ main {
 }
 
 .conhecimentos .conhecimentos-list .conhecimento-item strong {
-  color: #000;
+  color: rgb(75, 0, 0);
 }
 
 .conhecimentos .conhecimentos-list .conhecimento-item i {
   font-size: 3rem;
-  color: #000;
+  color: rgb(75, 0, 0);
   margin-right: 10px;
 }
 
@@ -496,7 +496,7 @@ main {
 
 .conhecimentos .conhecimentos-list .conhecimento-item:hover span,
 .conhecimentos .conhecimentos-list .conhecimento-item:hover strong {
-  color: #fff;
+  color: rgb(75, 0, 0)ff;
 }
 
 @media (min-width: 767px) {
@@ -627,7 +627,7 @@ main {
 }
 
 .projetos .projects-list .projects-item button:hover a {
-  color: #000;
+  color: #0rgb(75, 0, 0)00;
 }
 
 .projetos .projects-list .projects-item button:hover i {
